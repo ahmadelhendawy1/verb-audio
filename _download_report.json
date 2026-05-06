@@ -1,0 +1,2280 @@
+{
+  "stats": {
+    "downloaded": 243,
+    "skipped": 0,
+    "gtts": 0,
+    "failed": 9
+  },
+  "results": [
+    {
+      "form": "arise",
+      "slug": "arise",
+      "label": "v1",
+      "filename": "arise_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "arose",
+      "slug": "arose",
+      "label": "v2",
+      "filename": "arose_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "arisen",
+      "slug": "arisen",
+      "label": "v3",
+      "filename": "arisen_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "be",
+      "slug": "be",
+      "label": "v1",
+      "filename": "be_v1.mp3",
+      "source": null,
+      "accent": null,
+      "status": "failed"
+    },
+    {
+      "form": "was/were",
+      "slug": "was-were",
+      "label": "v2",
+      "filename": "was-were_v2.mp3",
+      "source": null,
+      "accent": null,
+      "status": "failed"
+    },
+    {
+      "form": "been",
+      "slug": "been",
+      "label": "v3",
+      "filename": "been_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "beat",
+      "slug": "beat",
+      "label": "v1",
+      "filename": "beat_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "beat",
+      "slug": "beat",
+      "label": "v2",
+      "filename": "beat_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "beaten",
+      "slug": "beaten",
+      "label": "v3",
+      "filename": "beaten_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "become",
+      "slug": "become",
+      "label": "v1",
+      "filename": "become_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "became",
+      "slug": "became",
+      "label": "v2",
+      "filename": "became_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "become",
+      "slug": "become",
+      "label": "v3",
+      "filename": "become_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "begin",
+      "slug": "begin",
+      "label": "v1",
+      "filename": "begin_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "began",
+      "slug": "began",
+      "label": "v2",
+      "filename": "began_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "begun",
+      "slug": "begun",
+      "label": "v3",
+      "filename": "begun_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "bend",
+      "slug": "bend",
+      "label": "v1",
+      "filename": "bend_v1.mp3",
+      "source": "api",
+      "accent": "uk",
+      "status": "ok"
+    },
+    {
+      "form": "bent",
+      "slug": "bent",
+      "label": "v2",
+      "filename": "bent_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "bent",
+      "slug": "bent",
+      "label": "v3",
+      "filename": "bent_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "bite",
+      "slug": "bite",
+      "label": "v1",
+      "filename": "bite_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "bit",
+      "slug": "bit",
+      "label": "v2",
+      "filename": "bit_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "bitten",
+      "slug": "bitten",
+      "label": "v3",
+      "filename": "bitten_v3.mp3",
+      "source": "api",
+      "accent": "uk",
+      "status": "ok"
+    },
+    {
+      "form": "blow",
+      "slug": "blow",
+      "label": "v1",
+      "filename": "blow_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "blew",
+      "slug": "blew",
+      "label": "v2",
+      "filename": "blew_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "blown",
+      "slug": "blown",
+      "label": "v3",
+      "filename": "blown_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "break",
+      "slug": "break",
+      "label": "v1",
+      "filename": "break_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "broke",
+      "slug": "broke",
+      "label": "v2",
+      "filename": "broke_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "broken",
+      "slug": "broken",
+      "label": "v3",
+      "filename": "broken_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "bring",
+      "slug": "bring",
+      "label": "v1",
+      "filename": "bring_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "brought",
+      "slug": "brought",
+      "label": "v2",
+      "filename": "brought_v2.mp3",
+      "source": "api",
+      "accent": "uk",
+      "status": "ok"
+    },
+    {
+      "form": "brought",
+      "slug": "brought",
+      "label": "v3",
+      "filename": "brought_v3.mp3",
+      "source": "api",
+      "accent": "uk",
+      "status": "ok"
+    },
+    {
+      "form": "build",
+      "slug": "build",
+      "label": "v1",
+      "filename": "build_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "built",
+      "slug": "built",
+      "label": "v2",
+      "filename": "built_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "built",
+      "slug": "built",
+      "label": "v3",
+      "filename": "built_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "buy",
+      "slug": "buy",
+      "label": "v1",
+      "filename": "buy_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "bought",
+      "slug": "bought",
+      "label": "v2",
+      "filename": "bought_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "bought",
+      "slug": "bought",
+      "label": "v3",
+      "filename": "bought_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "catch",
+      "slug": "catch",
+      "label": "v1",
+      "filename": "catch_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "caught",
+      "slug": "caught",
+      "label": "v2",
+      "filename": "caught_v2.mp3",
+      "source": "api",
+      "accent": "uk",
+      "status": "ok"
+    },
+    {
+      "form": "caught",
+      "slug": "caught",
+      "label": "v3",
+      "filename": "caught_v3.mp3",
+      "source": "api",
+      "accent": "uk",
+      "status": "ok"
+    },
+    {
+      "form": "choose",
+      "slug": "choose",
+      "label": "v1",
+      "filename": "choose_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "chose",
+      "slug": "chose",
+      "label": "v2",
+      "filename": "chose_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "chosen",
+      "slug": "chosen",
+      "label": "v3",
+      "filename": "chosen_v3.mp3",
+      "source": null,
+      "accent": null,
+      "status": "failed"
+    },
+    {
+      "form": "come",
+      "slug": "come",
+      "label": "v1",
+      "filename": "come_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "came",
+      "slug": "came",
+      "label": "v2",
+      "filename": "came_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "come",
+      "slug": "come",
+      "label": "v3",
+      "filename": "come_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "cost",
+      "slug": "cost",
+      "label": "v1",
+      "filename": "cost_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "cost",
+      "slug": "cost",
+      "label": "v2",
+      "filename": "cost_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "cost",
+      "slug": "cost",
+      "label": "v3",
+      "filename": "cost_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "cut",
+      "slug": "cut",
+      "label": "v1",
+      "filename": "cut_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "cut",
+      "slug": "cut",
+      "label": "v2",
+      "filename": "cut_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "cut",
+      "slug": "cut",
+      "label": "v3",
+      "filename": "cut_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "do",
+      "slug": "do",
+      "label": "v1",
+      "filename": "do_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "did",
+      "slug": "did",
+      "label": "v2",
+      "filename": "did_v2.mp3",
+      "source": "api",
+      "accent": "other",
+      "status": "ok"
+    },
+    {
+      "form": "done",
+      "slug": "done",
+      "label": "v3",
+      "filename": "done_v3.mp3",
+      "source": "api",
+      "accent": "other",
+      "status": "ok"
+    },
+    {
+      "form": "draw",
+      "slug": "draw",
+      "label": "v1",
+      "filename": "draw_v1.mp3",
+      "source": null,
+      "accent": null,
+      "status": "failed"
+    },
+    {
+      "form": "drew",
+      "slug": "drew",
+      "label": "v2",
+      "filename": "drew_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "drawn",
+      "slug": "drawn",
+      "label": "v3",
+      "filename": "drawn_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "drink",
+      "slug": "drink",
+      "label": "v1",
+      "filename": "drink_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "drank",
+      "slug": "drank",
+      "label": "v2",
+      "filename": "drank_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "drunk",
+      "slug": "drunk",
+      "label": "v3",
+      "filename": "drunk_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "drive",
+      "slug": "drive",
+      "label": "v1",
+      "filename": "drive_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "drove",
+      "slug": "drove",
+      "label": "v2",
+      "filename": "drove_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "driven",
+      "slug": "driven",
+      "label": "v3",
+      "filename": "driven_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "eat",
+      "slug": "eat",
+      "label": "v1",
+      "filename": "eat_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "ate",
+      "slug": "ate",
+      "label": "v2",
+      "filename": "ate_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "eaten",
+      "slug": "eaten",
+      "label": "v3",
+      "filename": "eaten_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "fall",
+      "slug": "fall",
+      "label": "v1",
+      "filename": "fall_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "fell",
+      "slug": "fell",
+      "label": "v2",
+      "filename": "fell_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "fallen",
+      "slug": "fallen",
+      "label": "v3",
+      "filename": "fallen_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "feel",
+      "slug": "feel",
+      "label": "v1",
+      "filename": "feel_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "felt",
+      "slug": "felt",
+      "label": "v2",
+      "filename": "felt_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "felt",
+      "slug": "felt",
+      "label": "v3",
+      "filename": "felt_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "fight",
+      "slug": "fight",
+      "label": "v1",
+      "filename": "fight_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "fought",
+      "slug": "fought",
+      "label": "v2",
+      "filename": "fought_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "fought",
+      "slug": "fought",
+      "label": "v3",
+      "filename": "fought_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "find",
+      "slug": "find",
+      "label": "v1",
+      "filename": "find_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "found",
+      "slug": "found",
+      "label": "v2",
+      "filename": "found_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "found",
+      "slug": "found",
+      "label": "v3",
+      "filename": "found_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "flee",
+      "slug": "flee",
+      "label": "v1",
+      "filename": "flee_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "fled",
+      "slug": "fled",
+      "label": "v2",
+      "filename": "fled_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "fled",
+      "slug": "fled",
+      "label": "v3",
+      "filename": "fled_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "fly",
+      "slug": "fly",
+      "label": "v1",
+      "filename": "fly_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "flew",
+      "slug": "flew",
+      "label": "v2",
+      "filename": "flew_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "flown",
+      "slug": "flown",
+      "label": "v3",
+      "filename": "flown_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "forget",
+      "slug": "forget",
+      "label": "v1",
+      "filename": "forget_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "forgot",
+      "slug": "forgot",
+      "label": "v2",
+      "filename": "forgot_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "forgotten",
+      "slug": "forgotten",
+      "label": "v3",
+      "filename": "forgotten_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "freeze",
+      "slug": "freeze",
+      "label": "v1",
+      "filename": "freeze_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "froze",
+      "slug": "froze",
+      "label": "v2",
+      "filename": "froze_v2.mp3",
+      "source": "api",
+      "accent": "uk",
+      "status": "ok"
+    },
+    {
+      "form": "frozen",
+      "slug": "frozen",
+      "label": "v3",
+      "filename": "frozen_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "get",
+      "slug": "get",
+      "label": "v1",
+      "filename": "get_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "got",
+      "slug": "got",
+      "label": "v2",
+      "filename": "got_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "got/gotten",
+      "slug": "got-gotten",
+      "label": "v3",
+      "filename": "got-gotten_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "give",
+      "slug": "give",
+      "label": "v1",
+      "filename": "give_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "gave",
+      "slug": "gave",
+      "label": "v2",
+      "filename": "gave_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "given",
+      "slug": "given",
+      "label": "v3",
+      "filename": "given_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "go",
+      "slug": "go",
+      "label": "v1",
+      "filename": "go_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "went",
+      "slug": "went",
+      "label": "v2",
+      "filename": "went_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "gone",
+      "slug": "gone",
+      "label": "v3",
+      "filename": "gone_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "grow",
+      "slug": "grow",
+      "label": "v1",
+      "filename": "grow_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "grew",
+      "slug": "grew",
+      "label": "v2",
+      "filename": "grew_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "grown",
+      "slug": "grown",
+      "label": "v3",
+      "filename": "grown_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "hang",
+      "slug": "hang",
+      "label": "v1",
+      "filename": "hang_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "hung",
+      "slug": "hung",
+      "label": "v2",
+      "filename": "hung_v2.mp3",
+      "source": "api",
+      "accent": "other",
+      "status": "ok"
+    },
+    {
+      "form": "hung",
+      "slug": "hung",
+      "label": "v3",
+      "filename": "hung_v3.mp3",
+      "source": "api",
+      "accent": "other",
+      "status": "ok"
+    },
+    {
+      "form": "have",
+      "slug": "have",
+      "label": "v1",
+      "filename": "have_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "had",
+      "slug": "had",
+      "label": "v2",
+      "filename": "had_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "had",
+      "slug": "had",
+      "label": "v3",
+      "filename": "had_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "hear",
+      "slug": "hear",
+      "label": "v1",
+      "filename": "hear_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "heard",
+      "slug": "heard",
+      "label": "v2",
+      "filename": "heard_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "heard",
+      "slug": "heard",
+      "label": "v3",
+      "filename": "heard_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "hide",
+      "slug": "hide",
+      "label": "v1",
+      "filename": "hide_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "hid",
+      "slug": "hid",
+      "label": "v2",
+      "filename": "hid_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "hidden",
+      "slug": "hidden",
+      "label": "v3",
+      "filename": "hidden_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "hit",
+      "slug": "hit",
+      "label": "v1",
+      "filename": "hit_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "hit",
+      "slug": "hit",
+      "label": "v2",
+      "filename": "hit_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "hit",
+      "slug": "hit",
+      "label": "v3",
+      "filename": "hit_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "hold",
+      "slug": "hold",
+      "label": "v1",
+      "filename": "hold_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "held",
+      "slug": "held",
+      "label": "v2",
+      "filename": "held_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "held",
+      "slug": "held",
+      "label": "v3",
+      "filename": "held_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "hurt",
+      "slug": "hurt",
+      "label": "v1",
+      "filename": "hurt_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "hurt",
+      "slug": "hurt",
+      "label": "v2",
+      "filename": "hurt_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "hurt",
+      "slug": "hurt",
+      "label": "v3",
+      "filename": "hurt_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "keep",
+      "slug": "keep",
+      "label": "v1",
+      "filename": "keep_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "kept",
+      "slug": "kept",
+      "label": "v2",
+      "filename": "kept_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "kept",
+      "slug": "kept",
+      "label": "v3",
+      "filename": "kept_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "know",
+      "slug": "know",
+      "label": "v1",
+      "filename": "know_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "knew",
+      "slug": "knew",
+      "label": "v2",
+      "filename": "knew_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "known",
+      "slug": "known",
+      "label": "v3",
+      "filename": "known_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "lay",
+      "slug": "lay",
+      "label": "v1",
+      "filename": "lay_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "laid",
+      "slug": "laid",
+      "label": "v2",
+      "filename": "laid_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "laid",
+      "slug": "laid",
+      "label": "v3",
+      "filename": "laid_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "lead",
+      "slug": "lead",
+      "label": "v1",
+      "filename": "lead_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "led",
+      "slug": "led",
+      "label": "v2",
+      "filename": "led_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "led",
+      "slug": "led",
+      "label": "v3",
+      "filename": "led_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "leave",
+      "slug": "leave",
+      "label": "v1",
+      "filename": "leave_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "left",
+      "slug": "left",
+      "label": "v2",
+      "filename": "left_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "left",
+      "slug": "left",
+      "label": "v3",
+      "filename": "left_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "lend",
+      "slug": "lend",
+      "label": "v1",
+      "filename": "lend_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "lent",
+      "slug": "lent",
+      "label": "v2",
+      "filename": "lent_v2.mp3",
+      "source": null,
+      "accent": null,
+      "status": "failed"
+    },
+    {
+      "form": "lent",
+      "slug": "lent",
+      "label": "v3",
+      "filename": "lent_v3.mp3",
+      "source": null,
+      "accent": null,
+      "status": "failed"
+    },
+    {
+      "form": "let",
+      "slug": "let",
+      "label": "v1",
+      "filename": "let_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "let",
+      "slug": "let",
+      "label": "v2",
+      "filename": "let_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "let",
+      "slug": "let",
+      "label": "v3",
+      "filename": "let_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "lose",
+      "slug": "lose",
+      "label": "v1",
+      "filename": "lose_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "lost",
+      "slug": "lost",
+      "label": "v2",
+      "filename": "lost_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "lost",
+      "slug": "lost",
+      "label": "v3",
+      "filename": "lost_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "make",
+      "slug": "make",
+      "label": "v1",
+      "filename": "make_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "made",
+      "slug": "made",
+      "label": "v2",
+      "filename": "made_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "made",
+      "slug": "made",
+      "label": "v3",
+      "filename": "made_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "mean",
+      "slug": "mean",
+      "label": "v1",
+      "filename": "mean_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "meant",
+      "slug": "meant",
+      "label": "v2",
+      "filename": "meant_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "meant",
+      "slug": "meant",
+      "label": "v3",
+      "filename": "meant_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "meet",
+      "slug": "meet",
+      "label": "v1",
+      "filename": "meet_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "met",
+      "slug": "met",
+      "label": "v2",
+      "filename": "met_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "met",
+      "slug": "met",
+      "label": "v3",
+      "filename": "met_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "pay",
+      "slug": "pay",
+      "label": "v1",
+      "filename": "pay_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "paid",
+      "slug": "paid",
+      "label": "v2",
+      "filename": "paid_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "paid",
+      "slug": "paid",
+      "label": "v3",
+      "filename": "paid_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "put",
+      "slug": "put",
+      "label": "v1",
+      "filename": "put_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "put",
+      "slug": "put",
+      "label": "v2",
+      "filename": "put_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "put",
+      "slug": "put",
+      "label": "v3",
+      "filename": "put_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "read",
+      "slug": "read",
+      "label": "v1",
+      "filename": "read_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "read",
+      "slug": "read",
+      "label": "v2",
+      "filename": "read_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "read",
+      "slug": "read",
+      "label": "v3",
+      "filename": "read_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "ride",
+      "slug": "ride",
+      "label": "v1",
+      "filename": "ride_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "rode",
+      "slug": "rode",
+      "label": "v2",
+      "filename": "rode_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "ridden",
+      "slug": "ridden",
+      "label": "v3",
+      "filename": "ridden_v3.mp3",
+      "source": null,
+      "accent": null,
+      "status": "failed"
+    },
+    {
+      "form": "ring",
+      "slug": "ring",
+      "label": "v1",
+      "filename": "ring_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "rang",
+      "slug": "rang",
+      "label": "v2",
+      "filename": "rang_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "rung",
+      "slug": "rung",
+      "label": "v3",
+      "filename": "rung_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "rise",
+      "slug": "rise",
+      "label": "v1",
+      "filename": "rise_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "rose",
+      "slug": "rose",
+      "label": "v2",
+      "filename": "rose_v2.mp3",
+      "source": "api",
+      "accent": "uk",
+      "status": "ok"
+    },
+    {
+      "form": "risen",
+      "slug": "risen",
+      "label": "v3",
+      "filename": "risen_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "run",
+      "slug": "run",
+      "label": "v1",
+      "filename": "run_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "ran",
+      "slug": "ran",
+      "label": "v2",
+      "filename": "ran_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "run",
+      "slug": "run",
+      "label": "v3",
+      "filename": "run_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "say",
+      "slug": "say",
+      "label": "v1",
+      "filename": "say_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "said",
+      "slug": "said",
+      "label": "v2",
+      "filename": "said_v2.mp3",
+      "source": "api",
+      "accent": "other",
+      "status": "ok"
+    },
+    {
+      "form": "said",
+      "slug": "said",
+      "label": "v3",
+      "filename": "said_v3.mp3",
+      "source": "api",
+      "accent": "other",
+      "status": "ok"
+    },
+    {
+      "form": "see",
+      "slug": "see",
+      "label": "v1",
+      "filename": "see_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "saw",
+      "slug": "saw",
+      "label": "v2",
+      "filename": "saw_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "seen",
+      "slug": "seen",
+      "label": "v3",
+      "filename": "seen_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "sell",
+      "slug": "sell",
+      "label": "v1",
+      "filename": "sell_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "sold",
+      "slug": "sold",
+      "label": "v2",
+      "filename": "sold_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "sold",
+      "slug": "sold",
+      "label": "v3",
+      "filename": "sold_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "send",
+      "slug": "send",
+      "label": "v1",
+      "filename": "send_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "sent",
+      "slug": "sent",
+      "label": "v2",
+      "filename": "sent_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "sent",
+      "slug": "sent",
+      "label": "v3",
+      "filename": "sent_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "set",
+      "slug": "set",
+      "label": "v1",
+      "filename": "set_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "set",
+      "slug": "set",
+      "label": "v2",
+      "filename": "set_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "set",
+      "slug": "set",
+      "label": "v3",
+      "filename": "set_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "shake",
+      "slug": "shake",
+      "label": "v1",
+      "filename": "shake_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "shook",
+      "slug": "shook",
+      "label": "v2",
+      "filename": "shook_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "shaken",
+      "slug": "shaken",
+      "label": "v3",
+      "filename": "shaken_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "show",
+      "slug": "show",
+      "label": "v1",
+      "filename": "show_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "showed",
+      "slug": "showed",
+      "label": "v2",
+      "filename": "showed_v2.mp3",
+      "source": null,
+      "accent": null,
+      "status": "failed"
+    },
+    {
+      "form": "shown",
+      "slug": "shown",
+      "label": "v3",
+      "filename": "shown_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "sing",
+      "slug": "sing",
+      "label": "v1",
+      "filename": "sing_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "sang",
+      "slug": "sang",
+      "label": "v2",
+      "filename": "sang_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "sung",
+      "slug": "sung",
+      "label": "v3",
+      "filename": "sung_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "sit",
+      "slug": "sit",
+      "label": "v1",
+      "filename": "sit_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "sat",
+      "slug": "sat",
+      "label": "v2",
+      "filename": "sat_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "sat",
+      "slug": "sat",
+      "label": "v3",
+      "filename": "sat_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "sleep",
+      "slug": "sleep",
+      "label": "v1",
+      "filename": "sleep_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "slept",
+      "slug": "slept",
+      "label": "v2",
+      "filename": "slept_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "slept",
+      "slug": "slept",
+      "label": "v3",
+      "filename": "slept_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "speak",
+      "slug": "speak",
+      "label": "v1",
+      "filename": "speak_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "spoke",
+      "slug": "spoke",
+      "label": "v2",
+      "filename": "spoke_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "spoken",
+      "slug": "spoken",
+      "label": "v3",
+      "filename": "spoken_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "spend",
+      "slug": "spend",
+      "label": "v1",
+      "filename": "spend_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "spent",
+      "slug": "spent",
+      "label": "v2",
+      "filename": "spent_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "spent",
+      "slug": "spent",
+      "label": "v3",
+      "filename": "spent_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "stand",
+      "slug": "stand",
+      "label": "v1",
+      "filename": "stand_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "stood",
+      "slug": "stood",
+      "label": "v2",
+      "filename": "stood_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "stood",
+      "slug": "stood",
+      "label": "v3",
+      "filename": "stood_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "steal",
+      "slug": "steal",
+      "label": "v1",
+      "filename": "steal_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "stole",
+      "slug": "stole",
+      "label": "v2",
+      "filename": "stole_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "stolen",
+      "slug": "stolen",
+      "label": "v3",
+      "filename": "stolen_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "swim",
+      "slug": "swim",
+      "label": "v1",
+      "filename": "swim_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "swam",
+      "slug": "swam",
+      "label": "v2",
+      "filename": "swam_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "swum",
+      "slug": "swum",
+      "label": "v3",
+      "filename": "swum_v3.mp3",
+      "source": "api",
+      "accent": "uk",
+      "status": "ok"
+    },
+    {
+      "form": "take",
+      "slug": "take",
+      "label": "v1",
+      "filename": "take_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "took",
+      "slug": "took",
+      "label": "v2",
+      "filename": "took_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "taken",
+      "slug": "taken",
+      "label": "v3",
+      "filename": "taken_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "teach",
+      "slug": "teach",
+      "label": "v1",
+      "filename": "teach_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "taught",
+      "slug": "taught",
+      "label": "v2",
+      "filename": "taught_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "taught",
+      "slug": "taught",
+      "label": "v3",
+      "filename": "taught_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "tell",
+      "slug": "tell",
+      "label": "v1",
+      "filename": "tell_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "told",
+      "slug": "told",
+      "label": "v2",
+      "filename": "told_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "told",
+      "slug": "told",
+      "label": "v3",
+      "filename": "told_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "think",
+      "slug": "think",
+      "label": "v1",
+      "filename": "think_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "thought",
+      "slug": "thought",
+      "label": "v2",
+      "filename": "thought_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "thought",
+      "slug": "thought",
+      "label": "v3",
+      "filename": "thought_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "throw",
+      "slug": "throw",
+      "label": "v1",
+      "filename": "throw_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "threw",
+      "slug": "threw",
+      "label": "v2",
+      "filename": "threw_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "thrown",
+      "slug": "thrown",
+      "label": "v3",
+      "filename": "thrown_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "understand",
+      "slug": "understand",
+      "label": "v1",
+      "filename": "understand_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "understood",
+      "slug": "understood",
+      "label": "v2",
+      "filename": "understood_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "understood",
+      "slug": "understood",
+      "label": "v3",
+      "filename": "understood_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "wake",
+      "slug": "wake",
+      "label": "v1",
+      "filename": "wake_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "woke",
+      "slug": "woke",
+      "label": "v2",
+      "filename": "woke_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "woken",
+      "slug": "woken",
+      "label": "v3",
+      "filename": "woken_v3.mp3",
+      "source": null,
+      "accent": null,
+      "status": "failed"
+    },
+    {
+      "form": "wear",
+      "slug": "wear",
+      "label": "v1",
+      "filename": "wear_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "wore",
+      "slug": "wore",
+      "label": "v2",
+      "filename": "wore_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "worn",
+      "slug": "worn",
+      "label": "v3",
+      "filename": "worn_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "win",
+      "slug": "win",
+      "label": "v1",
+      "filename": "win_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "won",
+      "slug": "won",
+      "label": "v2",
+      "filename": "won_v2.mp3",
+      "source": "api",
+      "accent": "uk",
+      "status": "ok"
+    },
+    {
+      "form": "won",
+      "slug": "won",
+      "label": "v3",
+      "filename": "won_v3.mp3",
+      "source": "api",
+      "accent": "uk",
+      "status": "ok"
+    },
+    {
+      "form": "write",
+      "slug": "write",
+      "label": "v1",
+      "filename": "write_v1.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "wrote",
+      "slug": "wrote",
+      "label": "v2",
+      "filename": "wrote_v2.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    },
+    {
+      "form": "written",
+      "slug": "written",
+      "label": "v3",
+      "filename": "written_v3.mp3",
+      "source": "api",
+      "accent": "us",
+      "status": "ok"
+    }
+  ],
+  "total_files": 243,
+  "audio_dir": "audio"
+}
